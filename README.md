@@ -31,7 +31,7 @@
 
   
 ### Links
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Blog&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Blog&theme=dark)](https://dush.tistory.com)
   
 
 ### Github Stats  
