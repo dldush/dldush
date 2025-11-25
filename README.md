@@ -3,13 +3,13 @@
 ## 이연호 (Lee Yeonho)
 ### Education
 🏛 경희대학교 경제학과 (2015 ~ 2022) 졸업
-
+[Blog](https://dush.tistory.com)
 
 🏢 삼성청년 소프트웨어 아카데미 (2024 ~ 2025)  
-🏢 LG UPLUS 유레카 (2025 ~ 현재)
   
 ### Career
 🌐 AOMG A&R/Marketing (2021 ~ 2022)
+🏢 (주)인서트 (2025 ~ )
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Java&logoColor=white)
