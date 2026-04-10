@@ -33,6 +33,3 @@
 ### Links
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Blog&theme=dark)](https://dush.tistory.com)
   
-
-### Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldush&show_icons=true&theme=dark#gh-dark-mode-only)
